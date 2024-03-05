@@ -4,7 +4,7 @@ import Logo from '../../public/logo.png';
 
 function Footer() {
   return (
-<footer className="bg-gray-50">
+<footer className="bg-[#F5E8DD] shadow-sm">
   <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
     <div className="sm:flex sm:items-center sm:justify-between">
       <div className="flex justify-center text-teal-600 sm:justify-start">
